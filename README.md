@@ -1,2 +1,2 @@
-# Daily
- Daily Practice
+# Code Challenges
+ Practicing :)
